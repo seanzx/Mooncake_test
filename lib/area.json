@@ -1,0 +1,302 @@
+{
+    "\u661f\u5df4\u514b\u6708\u997c":
+    {
+        "Berkeley": "3.65%",
+        "Fresno": "3.93%",
+        "San Rafael": "3.88%",
+        "Santa Clara": "4.79%",
+        "San Diego": "4.13%",
+        "San Fransico": "3.52%",
+        "Los angeles": "3.30%"
+    },
+    "\u5de7\u514b\u529b\u9999\u8fa3\u725b\u8089\u6708\u997c":
+    {
+        "Berkeley": "4.00%",
+        "Fresno": "5.00%",
+        "San Rafael": "4.65%",
+        "Santa Clara": "5.31%",
+        "San Diego": "4.11%",
+        "San Fransico": "2.69%",
+        "Los angeles": "3.70%"
+    },
+    "\u5976\u9165\u677e\u9732\u9e45\u809d\u6708\u997c":
+    {
+        "Berkeley": "0.81%",
+        "Fresno": "1.22%",
+        "San Rafael": "1.23%",
+        "Santa Clara": "0.78%",
+        "San Diego": "1.12%",
+        "San Fransico": "0.94%",
+        "Los angeles": "0.76%"
+    },
+    "\u9165\u76ae\u6708\u997c":
+    {
+        "Berkeley": "3.23%",
+        "Fresno": "3.74%",
+        "San Rafael": "4.69%",
+        "Santa Clara": "3.10%",
+        "San Diego": "4.81%",
+        "San Fransico": "3.25%",
+        "Los angeles": "4.22%"
+    },
+    "\u5e26\u9c7c\u6708\u997c":
+    {
+        "Berkeley": "6.01%",
+        "Fresno": "5.50%",
+        "San Rafael": "2.46%",
+        "Santa Clara": "7.36%",
+        "San Diego": "1.41%",
+        "San Fransico": "3.87%",
+        "Los angeles": "1.20%"
+    },
+    "\u6725\u997c":
+    {
+        "Berkeley": "0.77%",
+        "Fresno": "0.60%",
+        "San Rafael": "1.53%",
+        "Santa Clara": "0.86%",
+        "San Diego": "1.02%",
+        "San Fransico": "0.96%",
+        "Los angeles": "15.02%"
+    },
+    "\u65b9\u4fbf\u9762\u6708\u997c":
+    {
+        "Berkeley": "0.81%",
+        "Fresno": "1.22%",
+        "San Rafael": "1.23%",
+        "Santa Clara": "0.78%",
+        "San Diego": "1.12%",
+        "San Fransico": "0.94%",
+        "Los angeles": "0.76%"
+    },
+    "\u5c0f\u9f99\u867e\u6708\u997c":
+    {
+        "Berkeley": "3.12%",
+        "Fresno": "3.08%",
+        "San Rafael": "4.13%",
+        "Santa Clara": "3.12%",
+        "San Diego": "4.07%",
+        "San Fransico": "4.50%",
+        "Los angeles": "2.74%"
+    },
+    "\u54c8\u6839\u8fbe\u65af\u6708\u997c":
+    {
+        "Berkeley": "2.36%",
+        "Fresno": "8.90%",
+        "San Rafael": "1.77%",
+        "Santa Clara": "4.77%",
+        "San Diego": "3.00%",
+        "San Fransico": "3.19%",
+        "Los angeles": "5.44%"
+    },
+    "\u83ca\u82b1\u666e\u6d31\u6708\u997c":
+    {
+        "Berkeley": "0.81%",
+        "Fresno": "1.22%",
+        "San Rafael": "1.23%",
+        "Santa Clara": "0.78%",
+        "San Diego": "1.12%",
+        "San Fransico": "0.94%",
+        "Los angeles": "0.76%"
+    },
+    "\u69a8\u83dc\u9c9c\u8089\u6708\u997c":
+    {
+        "Berkeley": "2.93%",
+        "Fresno": "2.24%",
+        "San Rafael": "2.40%",
+        "Santa Clara": "1.46%",
+        "San Diego": "2.73%",
+        "San Fransico": "6.31%",
+        "Los angeles": "1.92%"
+    },
+    "\u67a3\u6ce5\u6708\u997c":
+    {
+        "Berkeley": "5.43%",
+        "Fresno": "2.93%",
+        "San Rafael": "3.58%",
+        "Santa Clara": "6.54%",
+        "San Diego": "1.65%",
+        "San Fransico": "3.85%",
+        "Los angeles": "1.96%"
+    },
+    "\u69b4\u83b2\u6708\u997c":
+    {
+        "Berkeley": "2.62%",
+        "Fresno": "2.38%",
+        "San Rafael": "3.22%",
+        "Santa Clara": "3.98%",
+        "San Diego": "2.64%",
+        "San Fransico": "3.44%",
+        "Los angeles": "5.99%"
+    },
+    "\u51b0\u76ae\u6708\u997c":
+    {
+        "Berkeley": "2.43%",
+        "Fresno": "2.68%",
+        "San Rafael": "3.95%",
+        "Santa Clara": "3.02%",
+        "San Diego": "3.19%",
+        "San Fransico": "3.19%",
+        "Los angeles": "6.36%"
+    },
+    "\u4e94\u4ec1\u6708\u997c":
+    {
+        "Berkeley": "2.54%",
+        "Fresno": "3.36%",
+        "San Rafael": "4.65%",
+        "Santa Clara": "2.49%",
+        "San Diego": "3.02%",
+        "San Fransico": "3.38%",
+        "Los angeles": "5.75%"
+    },
+    "\u9c9c\u82b1\u6708\u997c":
+    {
+        "Berkeley": "3.31%",
+        "Fresno": "5.56%",
+        "San Rafael": "4.28%",
+        "Santa Clara": "2.78%",
+        "San Diego": "7.11%",
+        "San Fransico": "3.73%",
+        "Los angeles": "2.15%"
+    },
+    "\u81ea\u6765\u7ea2\u6708\u997c":
+    {
+        "Berkeley": "18.01%",
+        "Fresno": "1.82%",
+        "San Rafael": "1.26%",
+        "Santa Clara": "1.41%",
+        "San Diego": "1.02%",
+        "San Fransico": "1.29%",
+        "Los angeles": "0.40%"
+    },
+    "\u4e91\u817f\u6708\u997c":
+    {
+        "Berkeley": "3.31%",
+        "Fresno": "2.72%",
+        "San Rafael": "3.11%",
+        "Santa Clara": "2.12%",
+        "San Diego": "16.28%",
+        "San Fransico": "2.41%",
+        "Los angeles": "1.82%"
+    },
+    "\u97ed\u83dc\u9e21\u86cb\u6708\u997c":
+    {
+        "Berkeley": "6.78%",
+        "Fresno": "4.59%",
+        "San Rafael": "4.05%",
+        "Santa Clara": "8.21%",
+        "San Diego": "1.77%",
+        "San Fransico": "3.19%",
+        "Los angeles": "0.70%"
+    },
+    "\u91d1\u55d3\u5b50\u6708\u997c":
+    {
+        "Berkeley": "0.81%",
+        "Fresno": "1.22%",
+        "San Rafael": "1.23%",
+        "Santa Clara": "0.78%",
+        "San Diego": "1.12%",
+        "San Fransico": "0.94%",
+        "Los angeles": "0.76%"
+    },
+    "\u7af9\u70ad\u6708\u997c":
+    {
+        "Berkeley": "3.43%",
+        "Fresno": "3.47%",
+        "San Rafael": "3.87%",
+        "Santa Clara": "4.38%",
+        "San Diego": "2.01%",
+        "San Fransico": "4.53%",
+        "Los angeles": "2.86%"
+    },
+    "\u9c9c\u8089\u6708\u997c":
+    {
+        "Berkeley": "2.88%",
+        "Fresno": "2.30%",
+        "San Rafael": "2.87%",
+        "Santa Clara": "2.12%",
+        "San Diego": "2.28%",
+        "San Fransico": "6.14%",
+        "Los angeles": "1.93%"
+    },
+    "\u6cd5\u5f0f\u6708\u997c":
+    {
+        "Berkeley": "6.10%",
+        "Fresno": "14.18%",
+        "San Rafael": "3.81%",
+        "Santa Clara": "4.80%",
+        "San Diego": "2.58%",
+        "San Fransico": "2.60%",
+        "Los angeles": "1.52%"
+    },
+    "\u8150\u4e73\u6708\u997c":
+    {
+        "Berkeley": "2.63%",
+        "Fresno": "1.94%",
+        "San Rafael": "3.41%",
+        "Santa Clara": "3.12%",
+        "San Diego": "3.27%",
+        "San Fransico": "4.53%",
+        "Los angeles": "4.06%"
+    },
+    "\u5143\u7956\u96ea\u6708\u997c":
+    {
+        "Berkeley": "0.72%",
+        "Fresno": "0.95%",
+        "San Rafael": "2.70%",
+        "Santa Clara": "0.80%",
+        "San Diego": "5.24%",
+        "San Fransico": "7.48%",
+        "Los angeles": "0.81%"
+    },
+    "\u9178\u8fa3\u6708\u997c":
+    {
+        "Berkeley": "1.38%",
+        "Fresno": "3.49%",
+        "San Rafael": "2.92%",
+        "Santa Clara": "2.84%",
+        "San Diego": "2.43%",
+        "San Fransico": "3.12%",
+        "Los angeles": "8.11%"
+    },
+    "\u86cb\u9ec4\u6708\u997c":
+    {
+        "Berkeley": "2.99%",
+        "Fresno": "3.16%",
+        "San Rafael": "5.50%",
+        "Santa Clara": "4.42%",
+        "San Diego": "4.05%",
+        "San Fransico": "4.11%",
+        "Los angeles": "2.31%"
+    },
+    "\u8c46\u6c99\u6708\u997c":
+    {
+        "Berkeley": "1.72%",
+        "Fresno": "2.26%",
+        "San Rafael": "5.04%",
+        "Santa Clara": "2.87%",
+        "San Diego": "3.66%",
+        "San Fransico": "3.93%",
+        "Los angeles": "4.98%"
+    },
+    "\u83b2\u84c9\u6708\u997c":
+    {
+        "Berkeley": "2.41%",
+        "Fresno": "2.41%",
+        "San Rafael": "5.35%",
+        "Santa Clara": "3.16%",
+        "San Diego": "4.48%",
+        "San Fransico": "3.11%",
+        "Los angeles": "5.24%"
+    },
+    "\u5341\u4ec1\u6708\u997c":
+    {
+        "Berkeley": "2.02%",
+        "Fresno": "1.96%",
+        "San Rafael": "5.97%",
+        "Santa Clara": "7.05%",
+        "San Diego": "3.55%",
+        "San Fransico": "3.95%",
+        "Los angeles": "2.50%"
+    }
+}
